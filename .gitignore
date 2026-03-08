@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Local SQLite data
+*.db
+
+# Frontend build and dependencies
+energy-strategy-hub-main/node_modules/
+energy-strategy-hub-main/dist/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
